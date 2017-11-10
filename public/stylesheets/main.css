@@ -6,15 +6,16 @@ body {
 
 h1 {
   font-family: 'Lobster', cursive;
-  color: orange;
+  color: blue;
 }
 
 p {
   font-family: "Courier New";
   font-size: 30px;
+  color: purple;
 }
 
 #doge-image img {
-  height: 140px;
-  margin-top: 20px;
+  height: 1140px;
+  margin-top: 220px;
 }
